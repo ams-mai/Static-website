@@ -104,7 +104,7 @@ img.closingPic {
     width: 1350px;
     height: 700px;
     margin: 0 0 30px 90px;
-    background-image: url(/pic2.png);
+    background-image: url(../pic2.png);
     background-size:contain;
     background-repeat: no-repeat;
     background-position: center;
