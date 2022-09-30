@@ -333,6 +333,9 @@ img.hobby {
 /* #dropdown1 {
     display: flex; } */
 
+#content1{
+    display: flex; }
+
 .rectangle {
     background-color: #524743;
     width: 40%;
