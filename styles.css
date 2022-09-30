@@ -86,6 +86,7 @@ img.closingPic {
 }
 
 .dropdown-content {
+    display: flex;
     width: 1350px;
     height: 600px;
     margin: 0 0 30px 90px;
